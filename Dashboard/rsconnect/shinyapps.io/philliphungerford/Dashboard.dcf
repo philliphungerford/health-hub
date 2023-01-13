@@ -1,0 +1,13 @@
+name: Dashboard
+title: Dashboard
+username:
+account: philliphungerford
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8028411
+bundleId: 6728430
+url: https://philliphungerford.shinyapps.io/Dashboard/
+when: 1673588425.68875
+lastSyncTime: 1673588425.68876
+asMultiple: FALSE
+asStatic: FALSE
